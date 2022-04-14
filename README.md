@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Donnamaria.
+- 👀 I’m interested in native app development.
+- 🌱 I’m currently learning react native.
